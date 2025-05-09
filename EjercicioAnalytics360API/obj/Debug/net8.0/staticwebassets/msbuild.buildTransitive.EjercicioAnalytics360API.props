@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EjercicioAnalytics360API.props" />
+</Project>
