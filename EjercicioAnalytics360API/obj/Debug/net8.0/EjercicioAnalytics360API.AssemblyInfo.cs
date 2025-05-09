@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjercicioAnalytics360API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0e18e1fecfc2186d39c17921fec06b33734b2fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aab16ff939b0c332a2c863d423674670982c720b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjercicioAnalytics360API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjercicioAnalytics360API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
