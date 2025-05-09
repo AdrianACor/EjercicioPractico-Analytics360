@@ -1,2 +1,0 @@
-# EjercicioPractico-Analytics360
-

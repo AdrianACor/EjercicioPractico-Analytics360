@@ -1,6 +1,0 @@
-@EjercicioAnalytics360API_HostAddress = http://localhost:5193
-
-GET {{EjercicioAnalytics360API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
