@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tfkEppXFtM=",
+  "dgSpecHash": "C+NSZKH9Akk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vacio\\Desktop\\Pendientes\\Entrevista Analytics360\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\EjercicioAnalytics360API.csproj",
+  "projectFilePath": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\EjercicioAnalytics360API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vacio\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\vacio\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

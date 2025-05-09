@@ -1,0 +1,12 @@
+<main class="main">
+  <div class="container">
+    <div class="card">
+      <label class="label">Ingresa una cadena con simbolos de apertura y cierre</label>
+      <input type="text" (input)="filtrarCaracteres($event)" [(ngModel)]="input"/>
+      <button (click)="onClick()">Enviar</button>
+    </div>
+  </div>
+  
+</main>
+
+<router-outlet />
