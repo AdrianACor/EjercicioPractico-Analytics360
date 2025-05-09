@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|c:\\users\\vacio\\documents\\proyectos\\ejerciciopractico-analytics360\\ejercicioanalytics360api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|c:\\users\\vacio\\documents\\proyectos\\ejerciciopractico-analytics360\\ejercicioanalytics360api\\controllers\\balanceoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|solutionrelative:controllers\\balanceoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|c:\\users\\vacio\\documents\\proyectos\\ejerciciopractico-analytics360\\ejercicioanalytics360api\\models\\balanceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|solutionrelative:models\\balanceo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|c:\\users\\vacio\\documents\\proyectos\\ejerciciopractico-analytics360\\ejercicioanalytics360api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|c:\\users\\vacio\\documents\\proyectos\\ejerciciopractico-analytics360\\ejercicioanalytics360api\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39981B74-94F0-4D27-8144-743998853768}|EjercicioAnalytics360API.csproj|solutionrelative:models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Balanceo.cs",
+              "DocumentMoniker": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Models\\Balanceo.cs",
+              "RelativeDocumentMoniker": "Models\\Balanceo.cs",
+              "ToolTip": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Models\\Balanceo.cs",
+              "RelativeToolTip": "Models\\Balanceo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:36:43.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BalanceosController.cs",
+              "DocumentMoniker": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Controllers\\BalanceosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BalanceosController.cs",
+              "ToolTip": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Controllers\\BalanceosController.cs",
+              "RelativeToolTip": "Controllers\\BalanceosController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T00:03:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:59:27.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Models\\MiDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\MiDbContext.cs",
+              "ToolTip": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\Models\\MiDbContext.cs",
+              "RelativeToolTip": "Models\\MiDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T23:57:50.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vacio\\Documents\\Proyectos\\EjercicioPractico-Analytics360\\EjercicioAnalytics360API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T23:45:06.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
